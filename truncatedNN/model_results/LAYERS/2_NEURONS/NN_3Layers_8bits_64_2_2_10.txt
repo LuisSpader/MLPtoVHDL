@@ -1,0 +1,58 @@
+Layer 0
+
+n0_MAC: 1.517822265625
+n1_MAC: -3.5556182861328125
+
+n0: 1.515625
+n1: 0.0
+
+Layer 1
+
+n2_MAC: 1.81585693359375
+n3_MAC: -1.7879638671875
+
+n2: 1.8125
+n3: 0.0
+
+Layer 2
+
+n4_MAC: -0.48876953125
+n5_MAC: -5.952392578125
+n6_MAC: -1.49853515625
+n7_MAC: 0.102783203125
+n8_MAC: -1.9833984375
+n9_MAC: -0.224365234375
+n10_MAC: -0.398193359375
+n11_MAC: -4.258544921875
+n12_MAC: 0.06787109375
+n13_MAC: -3.05322265625
+
+n4: 0.12890625
+n5: 0.0
+n6: 0.046875
+n7: 0.234375
+n8: 0.02734375
+n9: 0.16796875
+n10: 0.140625
+n11: 0.0
+n12: 0.2265625
+n13: 0.0078125
+
+
+----------------------------    Results   ----------------------------
+
+
+Correct answer: [0. 0. 0. 0. 0. 1. 0. 0. 0. 0.]
+NumeroTruncado result[0]: 0.12890625 ------- Model result[0]: 0.134526938200
+NumeroTruncado result[1]: 0.0 ------- Model result[1]: 0.000481983065
+NumeroTruncado result[2]: 0.046875 ------- Model result[2]: 0.044937662780
+NumeroTruncado result[3]: 0.234375 ------- Model result[3]: 0.236306801438
+NumeroTruncado result[4]: 0.02734375 ------- Model result[4]: 0.030483104289
+NumeroTruncado result[5]: 0.16796875 ------- Model result[5]: 0.172653734684
+NumeroTruncado result[6]: 0.140625 ------- Model result[6]: 0.138817161322
+NumeroTruncado result[7]: 0.0 ------- Model result[7]: 0.003165788017
+NumeroTruncado result[8]: 0.2265625 ------- Model result[8]: 0.228120282292
+NumeroTruncado result[9]: 0.0078125 ------- Model result[9]: 0.010506460443
+
+Greatest error: 0.005620688199996948
+Error position: 0

@@ -1,0 +1,9 @@
+
+
+----------------------------    Results   ----------------------------
+
+
+ Accuracy of the truncated model: 0.4706
+
+Accuracy of the tensorflow model: 0.49709999561309814
+
