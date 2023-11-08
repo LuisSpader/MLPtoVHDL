@@ -13,7 +13,7 @@
    - Generic vs fixed weight implementation
   *As a open-source code, you can implement new architectures as: MAC (Multiply-and-accumulate), Activation-functions
 ------------------------
-Web framework link: https://densenntovhdl.streamlit.app/
+Web framework link: https://mlptovhdl.streamlit.app/
 ------------------------
 Work in progress!!
 
