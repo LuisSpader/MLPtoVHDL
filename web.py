@@ -31,9 +31,9 @@ from web.streamlit_parameters import *
 # n_var = st.sidebar.slider("Nmos variability", 0.46, 0.59, 0.5166)
 # p_var = st.sidebar.slider("Pmos variability", -0.5, -0.4, -0.4341)
 # sdsds
-st.title("Dense NN to VHDL Generator ")
+st.title("MLP to VHDL Generator ")
 st.info(
-    '''This website generates Artificial Neural Networks (DNNs) with the VHDL hardware description language. 
+    '''This website generates Artificial Dense Neural Networks (DNNs) with the VHDL hardware description language. 
         This DNN is a multi-layer Perceptron (MLP) with a sigmoid layer at the end.
         Set you preference parameters to generate a custom DNN''')
 # st.markdown("##")

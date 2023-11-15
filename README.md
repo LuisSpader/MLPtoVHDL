@@ -1,4 +1,4 @@
-# DenseNN to VHDL
+# MLP to VHDL
 ![alt text for screen readers](./framework_workflow_2.png "Framework Workflow").
 
  This repository is a framework to generate a Hardware Description Language (HDL) in VHDL language for Artificial Neural Network Accelerators, from 3 input formats possibilities: 
